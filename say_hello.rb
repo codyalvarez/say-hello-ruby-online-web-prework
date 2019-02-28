@@ -1,6 +1,3 @@
-def myMethod(arg="Hello Kent Beck!")
-  return arg
+def say_hello(name, *1111*)
+puts  "Hello Kent Beck!"
 end
-
-myMethod("Hello Kent Beck!") #=> "hi"
-myMethod() #=> "hello world!"
