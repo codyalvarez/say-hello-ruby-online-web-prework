@@ -7,4 +7,4 @@ def say_hello(arg="name")
 end
 
 def ("Hello Kent Beck!") #=> "Hello Kent Beck!"
-def (name) 
+def (name)
