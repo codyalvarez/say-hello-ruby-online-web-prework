@@ -8,3 +8,4 @@ end
 
 def ("Hello Kent Beck!") #=> "Hello Kent Beck!"
 def (name)
+say_hello("chris")
