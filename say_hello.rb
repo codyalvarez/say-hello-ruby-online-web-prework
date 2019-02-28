@@ -1,3 +1,3 @@
-def say_hello(name, *1111*)
+def say_hello(name,)
 puts  "Hello Kent Beck!"
 end
