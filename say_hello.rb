@@ -1,3 +1,3 @@
 def say_hello(arg="name")
-  return arg
+  puts ("Hello Kent Beck!")
 end
